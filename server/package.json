@@ -1,0 +1,19 @@
+{
+  "name": "byturl",
+  "version": "1.0.0",
+  "description": "Free URL shortner for all your needs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/suryanshsugandhi/byturl.git"
+  },
+  "author": "suryansh sugandhi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/suryanshsugandhi/byturl/issues"
+  },
+  "homepage": "https://github.com/suryanshsugandhi/byturl#readme"
+}
